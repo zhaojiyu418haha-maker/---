@@ -1,0 +1,14 @@
+Z:\C#\домашнее задание2.cs\课堂作业\obj\Debug\net8.0\课堂作业.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\домашнее задание2.cs\课堂作业\obj\Debug\net8.0\课堂作业.AssemblyInfoInputs.cache
+Z:\C#\домашнее задание2.cs\课堂作业\obj\Debug\net8.0\课堂作业.AssemblyInfo.cs
+Z:\C#\домашнее задание2.cs\课堂作业\obj\Debug\net8.0\课堂作业.csproj.CoreCompileInputs.cache
+Z:\C#\домашнее задание2.cs\课堂作业\bin\Debug\net8.0\课堂作业.exe
+Z:\C#\домашнее задание2.cs\课堂作业\bin\Debug\net8.0\课堂作业.deps.json
+Z:\C#\домашнее задание2.cs\课堂作业\bin\Debug\net8.0\课堂作业.runtimeconfig.json
+Z:\C#\домашнее задание2.cs\课堂作业\bin\Debug\net8.0\课堂作业.dll
+Z:\C#\домашнее задание2.cs\课堂作业\bin\Debug\net8.0\课堂作业.pdb
+Z:\C#\домашнее задание2.cs\课堂作业\obj\Debug\net8.0\课堂作业.dll
+Z:\C#\домашнее задание2.cs\课堂作业\obj\Debug\net8.0\refint\课堂作业.dll
+Z:\C#\домашнее задание2.cs\课堂作业\obj\Debug\net8.0\课堂作业.pdb
+Z:\C#\домашнее задание2.cs\课堂作业\obj\Debug\net8.0\课堂作业.genruntimeconfig.cache
+Z:\C#\домашнее задание2.cs\课堂作业\obj\Debug\net8.0\ref\课堂作业.dll
